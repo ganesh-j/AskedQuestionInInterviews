@@ -1,3 +1,4 @@
+//Asked in Paytm
 import java.util.*;
 
 public class GetTriplets {
