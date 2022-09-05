@@ -1,0 +1,1 @@
+#given so many points, there are various poits within 1 metre distance
